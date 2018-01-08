@@ -28,7 +28,7 @@
     "test": "npm run xo&& npm run ava&& npm run remark",
     "xo": "xo",
     "ava": "nyc ava",
-    "remark": "remark readme.md",
+    "remark": "remark .",
     "codecov": "codecov",
     "release": "np"
   },
