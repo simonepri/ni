@@ -2,10 +2,6 @@
   <b>node-package-skeleton</b>
 </h1>
 <div align="center">
-  <!-- Version - npm -->
-  <a href="https://www.npmjs.com/package/node-package-skeleton">
-    <img src="https://img.shields.io/npm/v/node-package-skeleton.svg" alt="Latest version on npm" />
-  </a>
   <!-- CI - TravisCI -->
   <a href="https://travis-ci.org/simonepri/node-package-skeleton">
     <img src="https://img.shields.io/travis/typicode/husky/master.svg?label=Mac%20OSX%20%26%20Linux" alt="Mac/Linux Build Status" />
@@ -60,6 +56,10 @@
   </a>
 </div>
 <div align="center">
+  <!-- Version - npm -->
+  <a href="https://www.npmjs.com/package/node-package-skeleton">
+    <img src="https://img.shields.io/npm/v/node-package-skeleton.svg" alt="Latest version on npm" />
+  </a>
   <!-- License - MIT -->
   <a href="https://github.com/simonepri/node-package-skeleton#license">
     <img src="https://img.shields.io/github/license/simonepri/node-package-skeleton.svg" alt="Project license" />
