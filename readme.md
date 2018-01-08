@@ -19,15 +19,17 @@ The rest of the readme is just a placeholder text.
 Features:
 - javascript linter [xo](https://github.com/sindresorhus/xo)
 - markdown linter [remark](https://github.com/remarkjs/remark-lint)
-- test runner [ava](https://github.com/avajs/ava)
+- test runner [AVA](https://github.com/avajs/ava)
 - code coverage [istanbul](https://github.com/istanbuljs/nyc)
 - commit linter [commitlint](https://github.com/marionebl/commitlint)
-- interactive release [np](https://github.com/sindresorhus/np)
+- release system [np](https://github.com/sindresorhus/np)
 
 Tools:
 - automated build [travis](travis-ci.org) and [appveyor](https://www.appveyor.com/)
 - coverage report [codecov](https://codecov.io/gh)
-- security check [nsp](https://nodesecurity.io)
+- dependencies manager [david](https://david-dm.org)
+- dependencies vulnerabilities scan [snyk](https://snyk.io)
+- dependencies automatic updates [greenkeeper](https://greenkeeper.io/)
 
 Do you believe that this is *useful*? It has *saved you time*? Or maybe you simply *like it*?  
 If so [support us with a Star ⭐️](https://github.com/simonepri/node-package-skelethon#start-of-content) or [spread it with a Tweet 💬](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fsimonepri%2Fnode-package-skeleton&via=simonepri&text=Check%20out%20node-package-skeleton%21%20A%20Personal%20nodeJS%20package%20skeleton%20based%20on%20opinionated%20tools.&hashtags=%23simonepri%20%23nodejs).
