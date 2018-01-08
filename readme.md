@@ -28,14 +28,6 @@
   </a>
 </div>
 <div align="center">
-  <!-- Test Runner - AVA -->
-  <a href="https://github.com/avajs/ava">
-    <img src="https://img.shields.io/badge/test_runner-AVA-fb3170.svg" alt="AVA Test Runner used" />
-  </a>
-  <!-- Test Coverage - Istanbul -->
-  <a href="https://github.com/istanbuljs/nyc">
-    <img src="https://img.shields.io/badge/test_coverage-NYC-fec606.svg" alt="Istanbul Test Coverage used" />
-  </a>
   <!-- Code Style - XO -->
   <a href="https://github.com/sindresorhus/xo">
     <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO Code Style used" />
@@ -51,6 +43,16 @@
   <!-- Versioning Style - SemVer -->
   <a href="https://github.com/marionebl/commitlint/tree/master/@commitlint/config-conventional">
     <img src="https://img.shields.io/badge/versioning_style-semver-2cc990.svg" alt="SemVer Versioning Style used" />
+  </a>
+</div>
+<div align="center">
+  <!-- Test Runner - AVA -->
+  <a href="https://github.com/avajs/ava">
+    <img src="https://img.shields.io/badge/test_runner-AVA-fb3170.svg" alt="AVA Test Runner used" />
+  </a>
+  <!-- Test Coverage - Istanbul -->
+  <a href="https://github.com/istanbuljs/nyc">
+    <img src="https://img.shields.io/badge/test_coverage-NYC-fec606.svg" alt="Istanbul Test Coverage used" />
   </a>
   <!-- Release System - np -->
   <a href="https://github.com/sindresorhus/np">
