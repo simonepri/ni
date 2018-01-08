@@ -71,7 +71,7 @@
 
 ## Introduction
 
-This repository contains a personal skeleton that I use when I publish my [npm packages](https://www.npmjs.com/~simonepri). I will try to keep it as much updated as possible so you can [watch it 👁](https://github.com/simonepri/node-package-skelethon#start-of-content) to not lose any update!  
+This repository contains a personal skeleton that I use when I publish my [npm packages](https://www.npmjs.com/~simonepri). I will try to keep it as much updated as possible, so you can [watch it 👁](https://github.com/simonepri/node-package-skelethon#start-of-content) to not lose any update!  
 Please note that most of the readme is just a placeholder text.
 
 Features:
