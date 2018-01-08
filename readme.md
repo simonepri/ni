@@ -32,6 +32,10 @@
   <a href="https://github.com/avajs/ava">
     <img src="https://img.shields.io/badge/test_runner-AVA-fb3170.svg" alt="AVA Test Runner used" />
   </a>
+  <!-- Test Coverage - Istanbul -->
+  <a href="https://github.com/istanbuljs/nyc">
+    <img src="https://img.shields.io/badge/test_coverage-NYC-fec606.svg" alt="Istanbul Test Coverage used" />
+  </a>
   <!-- Code Style - XO -->
   <a href="https://github.com/sindresorhus/xo">
     <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO Code Style used" />
