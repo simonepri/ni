@@ -24,7 +24,7 @@
   </a>
   <!-- DM - David -->
   <a href="https://david-dm.org/simonepri/node-package-skeleton">
-    <img src="https://david-dm.org/simonepri/node-package-skeleton/status.svg)" alt="Dependency Status" />
+    <img src="https://david-dm.org/simonepri/node-package-skeleton/status.svg" alt="Dependency Status" />
   </a>
 </div>
 <div align="center">
