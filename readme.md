@@ -1,6 +1,64 @@
 <h1 align="center">
   <b>node-package-skeleton</b>
 </h1>
+<div align="center">
+  <!-- Version - npm -->
+  <a href="https://www.npmjs.com/package/node-package-skeleton">
+    <img src="https://img.shields.io/npm/v/node-package-skeleton.svg" alt="Latest version on npm" />
+  </a>
+  <!-- CI - TravisCI -->
+  <a href="https://travis-ci.org/simonepri/node-package-skeleton">
+    <img src="https://img.shields.io/travis/typicode/husky/master.svg?label=Mac%20OSX%20%26%20Linux" alt="Mac/Linux Build Status" />
+  </a>
+  <!-- CI - AppVeyor -->
+  <a href="https://ci.appveyor.com/project/simonepri/node-package-skeleton">
+    <img src="https://img.shields.io/appveyor/ci/simonepri/node-package-skeleton/master.svg?label=Windows" alt="Windows Build status" />
+  </a>
+  <!-- Coverage - Codecov -->
+  <a href="https://codecov.io/gh/simonepri/node-package-skeleton">
+    <img src="https://img.shields.io/codecov/c/github/simonepri/node-package-skeleton/master.svg" alt="Codecov Coverage report" />
+  </a>
+  <!-- DM - Snyk -->
+  <a href="https://snyk.io/test/github/simonepri/node-package-skeleton?targetFile=package.json">
+    <img src="https://snyk.io/test/github/simonepri/node-package-skeleton/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" />
+  </a>
+  <!-- DM - David -->
+  <a href="https://david-dm.org/simonepri/node-package-skeleton">
+    <img src="https://david-dm.org/simonepri/node-package-skeleton/status.svg)" alt="Dependency Status" />
+  </a>
+</div>
+<div align="center">
+  <!-- Test Runner - AVA -->
+  <a href="https://github.com/avajs/ava">
+    <img src="https://img.shields.io/badge/test_runner-AVA-fb3170.svg" alt="AVA Test Runner used" />
+  </a>
+  <!-- Code Style - XO -->
+  <a href="https://github.com/sindresorhus/xo">
+    <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO Code Style used" />
+  </a>
+  <!-- Markdown Style - MDG -->
+  <a href="https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-markdown-style-guide">
+    <img src="https://img.shields.io/badge/markdown_style-MDG-34495e.svg" alt="MDG Markdown Style used" />
+  </a>
+  <!-- Commit Style - Conventional -->
+  <a href="https://github.com/marionebl/commitlint/tree/master/@commitlint/config-conventional">
+    <img src="https://img.shields.io/badge/commit_style-conventional-9b59b6.svg" alt="Conventional Commit Style used" />
+  </a>
+  <!-- Versioning Style - SemVer -->
+  <a href="https://github.com/marionebl/commitlint/tree/master/@commitlint/config-conventional">
+    <img src="https://img.shields.io/badge/versioning_style-semver-2cc990.svg" alt="SemVer Versioning Style used" />
+  </a>
+  <!-- Release System - np -->
+  <a href="https://github.com/sindresorhus/np">
+    <img src="https://img.shields.io/badge/release_system-np-6c8784.svg" alt="NP Release System used" />
+  </a>
+</div>
+<div align="center">
+  <!-- License - MIT -->
+  <a href="https://github.com/simonepri/node-package-skeleton#license">
+    <img src="https://img.shields.io/github/license/simonepri/node-package-skeleton.svg" alt="Project license" />
+  </a>
+</div>
 <br />
 <div align="center">
   👷🏼 Personal nodeJS package skeleton based on opinionated tools.
