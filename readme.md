@@ -13,6 +13,8 @@
 
 ## Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/simonepri/node-package-skeleton.svg)](https://greenkeeper.io/)
+
 This repository contains a personal skeleton that I use when I publish my [npm packages](https://www.npmjs.com/~simonepri). I will try to keep it as much updated as possible so you can [watch it 👁](https://github.com/simonepri/node-package-skelethon#start-of-content) to not lose any update!  
 The rest of the readme is just a placeholder text.
 
