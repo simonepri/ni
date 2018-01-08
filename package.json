@@ -1,6 +1,6 @@
 {
   "name": "node-package-skeleton",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Personal nodeJS package skeleton based on opinionated tools.",
   "private": "true",
   "publishConfig": {
