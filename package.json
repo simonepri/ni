@@ -29,7 +29,7 @@
     "xo": "xo",
     "ava": "nyc ava",
     "remark": "remark .",
-    "codecov": "codecov",
+    "codecov": "codecov --disable=gcov",
     "release": "np"
   },
   "dependencies": {},
