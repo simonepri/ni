@@ -71,13 +71,13 @@
 </div>
 <div align="center">
   <sub>
-    Coded with ❤️ by <a href="https://github.com/simonepri/node-package-skelethon#authors">Simone Primarosa</a>.
+    Coded with ❤️ by <a href="#authors">Simone Primarosa</a>.
   </sub>
 </div>
 
 ## Introduction
 
-This repository contains a personal skeleton that I use when I publish my [npm packages](https://www.npmjs.com/~simonepri). I will try to keep it as much updated as possible, so you can [watch it 👁](https://github.com/simonepri/node-package-skelethon#start-of-content) to not lose any update!  
+This repository contains a personal skeleton that I use when I publish my [npm packages](https://www.npmjs.com/~simonepri). I will try to keep it as much updated as possible, so you can [watch it 👁](#start-of-content) to not lose any update!  
 Please note that most of the readme is just a placeholder text.
 
 Features:
@@ -96,7 +96,7 @@ Tools:
 - dependencies automatic updates [greenkeeper](https://greenkeeper.io/)
 
 Do you believe that this is *useful*? It has *saved you time*? Or maybe you simply *like it*?  
-If so [support us with a Star ⭐️](https://github.com/simonepri/node-package-skelethon#start-of-content) or [spread it with a Tweet 💬](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fsimonepri%2Fnode-package-skeleton&via=simonepri&text=Check%20out%20node-package-skeleton%21%20A%20Personal%20nodeJS%20package%20skeleton%20based%20on%20opinionated%20tools.&hashtags=simonepri%20%23nodejs).
+If so [support us with a Star ⭐️](#start-of-content) or [spread it with a Tweet 💬](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fsimonepri%2Fnode-package-skeleton&via=simonepri&text=Check%20out%20node-package-skeleton%21%20A%20Personal%20nodeJS%20package%20skeleton%20based%20on%20opinionated%20tools.&hashtags=simonepri%2Cnodejs).
 
 ## Install
 
