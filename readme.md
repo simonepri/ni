@@ -8,7 +8,7 @@
 <div align="center">
   <sub>
     Coded with ❤️ by <a href="https://github.com/simonepri/node-package-skelethon#authors">Simone Primarosa</a>.
-  </sub>https://github.com/istanbuljs/nyc
+  </sub>
 </div>
 
 ## Introduction
