@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Coverage directory used by istanbul
+.nyc_output/
+coverage/
+
+# Locks
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+
+# Logs
+*.log*

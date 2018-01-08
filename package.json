@@ -1,0 +1,125 @@
+{
+  "name": "node-package-skeleton",
+  "version": "0.0.0",
+  "description": "Personal nodeJS package skeleton based on opinionated tools.",
+  "private": "true",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "license": "MIT",
+  "repository": "simonepri/node-package-skeleton",
+  "author": {
+    "name": "Simone Primarosa",
+    "email": "simone.pri@hotmail.it",
+    "url": "https://github.com/simonepri"
+  },
+  "contributors": [],
+  "keywords": [
+    "skeleton"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "npm run xo&& npm run ava&& npm run remark",
+    "xo": "xo",
+    "ava": "nyc ava",
+    "remark": "remark .",
+    "codecov": "codecov",
+    "release": "np"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "*",
+    "@commitlint/config-conventional": "*",
+    "ava": "*",
+    "codecov": "*",
+    "husky": "^0.15.0-beta.16",
+    "np": "*",
+    "nyc": "*",
+    "remark-cli": "*",
+    "remark-preset-lint-markdown-style-guide": "*",
+    "xo": "*"
+  },
+  "ava": {
+    "verbose": true
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $GIT_PARAM"
+    }
+  },
+  "nyc": {
+    "reporter": [
+      "lcovonly",
+      "text"
+    ]
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-lint-markdown-style-guide",
+      [
+        "lint-maximum-line-length",
+        false
+      ]
+    ]
+  },
+  "xo": {
+    "space": true,
+    "plugins": ["jsdoc"],
+    "rules": {
+      "jsdoc/newline-after-description": "warn",
+      "jsdoc/require-description-complete-sentence": "warn",
+      "jsdoc/require-hyphen-before-param-description": "warn",
+      "require-jsdoc": [
+        "warn", {
+          "require": {
+            "FunctionDeclaration": true,
+            "MethodDefinition": true,
+            "ClassDeclaration": true,
+            "ClassDeclaration": true,
+            "ArrowFunctionExpression": true
+          }
+        }
+      ],
+      "valid-jsdoc": ["warn", {
+        "requireReturn": false,
+        "prefer": {
+          "arg": "param",
+          "argument": "param",
+          "arguments": "extends",
+          "const": "constant",
+          "defaultvalue": "default",
+          "desc": "description",
+          "exception": "throws",
+          "file": "overview",
+          "fileoverview": "overview",
+          "fires": "emits",
+          "func": "function",
+          "prop": "property",
+          "return": "returns",
+          "virtual": "abstract",
+          "yeld": "yelds"
+        },
+        "preferType": {
+          "array": "Array",
+          "Boolean": "boolean",
+          "date": "Date",
+          "Number": "number",
+          "object": "Object",
+          "regex": "RegExp",
+          "String": "string"
+        }
+      }]
+    }
+  }
+}

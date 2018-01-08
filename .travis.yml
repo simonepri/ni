@@ -1,0 +1,16 @@
+sudo: false
+language: node_js
+node_js:
+  - '8'
+  - '6'
+script:
+  - npm test
+after_success:
+  - npm run codecov
+  - npm run nsp
+cache:
+  directories:
+  - node_modules
+os:
+  - linux
+  - osx
