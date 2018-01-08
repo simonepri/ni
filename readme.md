@@ -96,7 +96,7 @@ Tools:
 - dependencies automatic updates [greenkeeper](https://greenkeeper.io/)
 
 Do you believe that this is *useful*? It has *saved you time*? Or maybe you simply *like it*?  
-If so [support us with a Star ⭐️](https://github.com/simonepri/node-package-skelethon#start-of-content) or [spread it with a Tweet 💬](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fsimonepri%2Fnode-package-skeleton&via=simonepri&text=Check%20out%20node-package-skeleton%21%20A%20Personal%20nodeJS%20package%20skeleton%20based%20on%20opinionated%20tools.&hashtags=%23simonepri%20%23nodejs).
+If so [support us with a Star ⭐️](https://github.com/simonepri/node-package-skelethon#start-of-content) or [spread it with a Tweet 💬](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fsimonepri%2Fnode-package-skeleton&via=simonepri&text=Check%20out%20node-package-skeleton%21%20A%20Personal%20nodeJS%20package%20skeleton%20based%20on%20opinionated%20tools.&hashtags=simonepri%20%23nodejs).
 
 ## Install
 
