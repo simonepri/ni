@@ -127,7 +127,7 @@ Please check the [contributing guidelines](.github/contributing.md) for more det
 > Please learn about [conventional commits](https://conventionalcommits.org/) and [semantic versioning](https://semver.org/) before committing on this repo.
 
 ## Authors
-- **Simone Primarosa** -  *Follow* me on *Github* ([:octocat:@simonepri](https://github.com/simonepri)) and on  *Twitter* ([🐦@simoneprimarosa](http://twitter.com/intent/user?screen_name=simonepri))
+- **Simone Primarosa** -  *Follow* me on *Github* ([:octocat:@simonepri](https://github.com/simonepri)) and on  *Twitter* ([🐦@simonepri](http://twitter.com/intent/user?screen_name=simonepri))
 
 See also the list of [contributors](https://github.com/simonepri/node-package-skelethon/contributors) who participated in this project.
 
