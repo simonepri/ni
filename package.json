@@ -76,51 +76,56 @@
   },
   "xo": {
     "space": true,
-    "plugins": ["jsdoc"],
+    "plugins": [
+      "jsdoc"
+    ],
     "rules": {
       "jsdoc/newline-after-description": "warn",
       "jsdoc/require-description-complete-sentence": "warn",
       "jsdoc/require-hyphen-before-param-description": "warn",
       "require-jsdoc": [
-        "warn", {
+        "warn",
+        {
           "require": {
             "FunctionDeclaration": true,
             "MethodDefinition": true,
-            "ClassDeclaration": true,
             "ClassDeclaration": true,
             "ArrowFunctionExpression": true
           }
         }
       ],
-      "valid-jsdoc": ["warn", {
-        "requireReturn": false,
-        "prefer": {
-          "arg": "param",
-          "argument": "param",
-          "arguments": "extends",
-          "const": "constant",
-          "defaultvalue": "default",
-          "desc": "description",
-          "exception": "throws",
-          "file": "overview",
-          "fileoverview": "overview",
-          "fires": "emits",
-          "func": "function",
-          "prop": "property",
-          "return": "returns",
-          "virtual": "abstract",
-          "yeld": "yelds"
-        },
-        "preferType": {
-          "array": "Array",
-          "Boolean": "boolean",
-          "date": "Date",
-          "Number": "number",
-          "object": "Object",
-          "regex": "RegExp",
-          "String": "string"
+      "valid-jsdoc": [
+        "warn",
+        {
+          "requireReturn": false,
+          "prefer": {
+            "arg": "param",
+            "argument": "param",
+            "arguments": "extends",
+            "const": "constant",
+            "defaultvalue": "default",
+            "desc": "description",
+            "exception": "throws",
+            "file": "overview",
+            "fileoverview": "overview",
+            "fires": "emits",
+            "func": "function",
+            "prop": "property",
+            "return": "returns",
+            "virtual": "abstract",
+            "yeld": "yelds"
+          },
+          "preferType": {
+            "array": "Array",
+            "Boolean": "boolean",
+            "date": "Date",
+            "Number": "number",
+            "object": "Object",
+            "regex": "RegExp",
+            "String": "string"
+          }
         }
-      }]
+      ]
     }
   }
 }
