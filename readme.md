@@ -22,6 +22,7 @@ Features:
 - test runner [ava](https://github.com/avajs/ava)
 - code coverage [istanbul](https://github.com/istanbuljs/nyc)
 - commit linter [commitlint](https://github.com/marionebl/commitlint)
+- interactive release [np](https://github.com/sindresorhus/np)
 
 Tools:
 - automated build [travis](travis-ci.org) and [appveyor](https://www.appveyor.com/)
