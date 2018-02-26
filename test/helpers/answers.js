@@ -1,0 +1,15 @@
+module.exports = {
+  doiknowyou: undefined,
+  author: 'Example Name',
+  email: 'email@example.com',
+  website: 'https://example.com',
+  name: 'example',
+  description: 'My example package',
+  public: true,
+  license: 'MIT',
+  version: '0.0.1',
+  engines: '>=6',
+  host: 'GitHub',
+  repo: 'ni-cli/example',
+  confirm: true,
+};
