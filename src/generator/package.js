@@ -60,9 +60,10 @@ async function run(folder, options) {
     });
   }
   const pkgPath = path.join(folder, 'package.json');
-  return fp(pkg)
-    .then(json => fs.outputFile(pkgPath, json))
-    .then(() => pkg);
+  const json = await fp(pkg);
+  await fs.outputFile(pkgPath, json);
+
+  return pkg;
 }
 
 module.exports = run;

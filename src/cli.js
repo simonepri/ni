@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable promise/prefer-await-to-then */
 'use strict';
 
 const meow = require('meow');
