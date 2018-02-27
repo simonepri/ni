@@ -1,6 +1,6 @@
 {
-  "version": "0.0.1",
   "name": "ni-cli",
+  "version": "0.1.0",
   "description": "A better `npm init`",
   "license": "MIT",
   "homepage": "https://github.com/simonepri/ni#readme",
