@@ -67,7 +67,7 @@
     "np": "*",
     "npm-check": "*",
     "nyc": "*",
-    "xo": "*"
+    "xo": ">=0.21.0"
   },
   "ava": {
     "verbose": true
