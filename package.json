@@ -35,7 +35,7 @@
     "chalk": "^2.3.1",
     "conf": "^1.4.0",
     "format-package": "^4.1.2",
-    "fs-extra": "^5.0.0",
+    "fs-extra": "^6.0.1",
     "fullname": "^3.3.0",
     "fuzzy": "^0.1.3",
     "gh-account-exists": "^0.1.0",
