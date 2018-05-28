@@ -64,7 +64,7 @@
   "devDependencies": {
     "ava": "*",
     "mockery": "^2.1.0",
-    "np": "*",
+    "np": ">=3.0.1",
     "npm-check": "*",
     "nyc": "*",
     "xo": "*"
