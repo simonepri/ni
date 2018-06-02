@@ -41,7 +41,7 @@
     "gh-account-exists": "^0.1.0",
     "git-user-local": "^0.2.0",
     "github-username-regex": "^1.0.0",
-    "inquirer": "^5.1.0",
+    "inquirer": "^6.0.0",
     "inquirer-autocomplete-prompt": "^0.12.1",
     "is-absolute": "^1.0.0",
     "is-email": "^1.0.0",
