@@ -28,7 +28,9 @@
     "start": "node src/cli.js",
     "test": "xo&& nyc ava",
     "release": "np",
-    "update": "npm-check -u"
+    "update": "npm-check -u",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "capitalize": "^1.0.0",
@@ -59,7 +61,8 @@
     "tildify": "^1.2.0",
     "unique-string": "^1.0.0",
     "update-notifier": "^2.3.0",
-    "username": "^3.0.0"
+    "username": "^3.0.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "ava": "*",
@@ -81,5 +84,6 @@
   "xo": {
     "prettier": true,
     "space": true
-  }
+  },
+  "snyk": true
 }
