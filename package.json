@@ -45,7 +45,7 @@
     "inquirer-autocomplete-prompt": "^0.12.1",
     "is-absolute": "^1.0.0",
     "is-email": "^1.0.0",
-    "is-online": "^7.0.0",
+    "is-online": "^8.1.0",
     "is-scoped": "^1.0.0",
     "is-url": "^1.2.2",
     "is-valid-npm-name": "0.0.4",
